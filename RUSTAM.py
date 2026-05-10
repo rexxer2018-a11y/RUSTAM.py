@@ -14,6 +14,8 @@ BLUE = (0, 128, 255)     # Цвет игрока
 GRAY = (200, 200, 200)
 
 # --- Класс управления Базой Данных (SQLite3) ---
+# --- Класс CoinCollectorGame (основной движок) взаимодействует с базой данных не напрямую,---
+# ---- -  а через экземпляр LeaderboardDB:   --
 class LeaderboardDB:
     def __init__(self, db_name="scores.db"):
         self.conn = sqlite3.connect(db_name)
