@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-  --- Последние правки  произведены сегодня 10_05_2026 ---
+# -*- coding: utf-8 -*-
 import pygame
 import sqlite3
 import random
@@ -219,8 +219,7 @@ class CoinCollectorGame:
                 if event.type == pygame.QUIT: waiting = False
                 if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
                     waiting = False
-      # ---  перемещен в конец программы для решения бага работы EXE шника под виндой ---    "pygame.quit()"  ---
-
+      pygame.quit()"
 if __name__ == "__main__":
     game = CoinCollectorGame()
     game.run()
