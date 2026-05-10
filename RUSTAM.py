@@ -223,4 +223,3 @@ class CoinCollectorGame:
 if __name__ == "__main__":
     game = CoinCollectorGame()
     game.run()
-pygame.quit()
