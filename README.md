@@ -23,5 +23,7 @@
    ```bash
    python RUSTAM.py
    ```
-   * Имеется   также  запакованный под виндовс EXE - файл  , созданный командой
-   pyinstaller --onefile --noconsole RUSTAM.py  ,  чтобы можно было запускать игру  щелчком мыши под виндовс. 
+* Имеется   также  запакованный под виндовс EXE - файл  , созданный командой
+  pyinstaller --onefile --noconsole RUSTAM.py  ,  чтобы можно было запускать игру  щелчком мыши под виндовс.
+  https://github.com/rexxer2018-a11y/RUSTAM.py/releases/tag/v1.0
+    
