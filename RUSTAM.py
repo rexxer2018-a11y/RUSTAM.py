@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-  --- Последние правки  произведены сегодня 10_05_2026 ---
 import pygame
 import sqlite3
 import random
