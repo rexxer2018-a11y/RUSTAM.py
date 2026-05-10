@@ -219,8 +219,9 @@ class CoinCollectorGame:
                 if event.type == pygame.QUIT: waiting = False
                 if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
                     waiting = False
-        pygame.quit()
+      # ---  перемещен в конец программы для решения бага работы EXE шника под виндой ---    "pygame.quit()"  ---
 
 if __name__ == "__main__":
     game = CoinCollectorGame()
     game.run()
+pygame.quit()
