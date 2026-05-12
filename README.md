@@ -1,7 +1,8 @@
 Заметка
 # Игра "Сборщик монет" на PyGame
 Скриншоты из игры:
-<img width="803" height="633" alt="СС" src="https://github.com/user-attachments/assets/bbe43c8b-9184-4cca-8d50-2ad39e27d71d" />
+<img width="402" height="317" alt="СС" src="https://github.com/user-attachments/assets/0e225acc-5c92-4dfc-a1ab-9e3ae6489d44" />
+
 
 Проект демонстрирует применение базовых принципов геймдизайна и архитектуры приложений на Python
 Проект, реализованный в рамках практического задания. Игра представляет собой аркадный сборщик монет с системой рекордов.
