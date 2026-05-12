@@ -1,6 +1,8 @@
 Заметка
 # Игра "Сборщик монет" на PyGame
 Скриншоты из игры:
+
+
 <img width="402" height="317" alt="СС" src="https://github.com/user-attachments/assets/0e225acc-5c92-4dfc-a1ab-9e3ae6489d44" />
 
 
